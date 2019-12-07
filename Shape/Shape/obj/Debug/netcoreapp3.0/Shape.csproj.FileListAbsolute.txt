@@ -1,0 +1,11 @@
+/Users/Kuba2/RiderProjects/Shape/Shape/obj/Debug/netcoreapp3.0/Shape.csprojAssemblyReference.cache
+/Users/Kuba2/RiderProjects/Shape/Shape/obj/Debug/netcoreapp3.0/Shape.AssemblyInfoInputs.cache
+/Users/Kuba2/RiderProjects/Shape/Shape/obj/Debug/netcoreapp3.0/Shape.AssemblyInfo.cs
+/Users/Kuba2/RiderProjects/Shape/Shape/bin/Debug/netcoreapp3.0/Shape
+/Users/Kuba2/RiderProjects/Shape/Shape/bin/Debug/netcoreapp3.0/Shape.deps.json
+/Users/Kuba2/RiderProjects/Shape/Shape/bin/Debug/netcoreapp3.0/Shape.runtimeconfig.json
+/Users/Kuba2/RiderProjects/Shape/Shape/bin/Debug/netcoreapp3.0/Shape.runtimeconfig.dev.json
+/Users/Kuba2/RiderProjects/Shape/Shape/bin/Debug/netcoreapp3.0/Shape.dll
+/Users/Kuba2/RiderProjects/Shape/Shape/bin/Debug/netcoreapp3.0/Shape.pdb
+/Users/Kuba2/RiderProjects/Shape/Shape/obj/Debug/netcoreapp3.0/Shape.dll
+/Users/Kuba2/RiderProjects/Shape/Shape/obj/Debug/netcoreapp3.0/Shape.pdb
